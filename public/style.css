@@ -1,0 +1,135 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial, sans-serif;
+    background-color:#fafafa;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    height:100vh;
+}
+
+.container{
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+
+.box{
+    width:350px;
+    background:white;
+
+    border:1px solid #dbdbdb;
+
+    padding:40px;
+
+    text-align:center;
+}
+
+.logo{
+    font-family:'Segoe Script', cursive;
+    font-size:45px;
+
+    margin-bottom:20px;
+}
+
+.subtitle{
+    color:gray;
+    font-size:14px;
+    margin-bottom:25px;
+}
+
+input{
+    width:100%;
+
+    padding:12px;
+
+    margin-bottom:10px;
+
+    border:1px solid #dbdbdb;
+
+    border-radius:4px;
+
+    box-sizing:border-box;
+}
+
+button{
+    width:100%;
+
+    padding:10px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#0095f6;
+
+    color:white;
+
+    font-weight:bold;
+
+    cursor:pointer;
+}
+
+button:hover{
+    background:#1877f2;
+}
+
+.switch-box{
+    margin-top:20px;
+    font-size:14px;
+}
+
+.switch-box a{
+    text-decoration:none;
+    color:#0095f6;
+    font-weight:bold;
+}
+
+.error{
+    color:red;
+    font-size:14px;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-weight:bold;
+
+}
+
+.profile-card{
+    margin-top:20px;
+}
+
+.profile-icon{
+    font-size:60px;
+    margin-bottom:15px;
+}
+
+.profile-card h2{
+    color:#262626;
+    margin-bottom:10px;
+}
+
+.profile-card p{
+    color:#8e8e8e;
+    margin-bottom:25px;
+}
+
+.logout-btn{
+    display:inline-block;
+    text-decoration:none;
+
+    background:#ed4956;
+    color:white;
+
+    padding:10px 25px;
+
+    border-radius:8px;
+
+    font-weight:bold;
+}
+
+.logout-btn:hover{
+    background:#c13584;
+}
