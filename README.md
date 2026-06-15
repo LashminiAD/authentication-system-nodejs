@@ -138,16 +138,16 @@ http://localhost:3000
 
 ## 🔮 Future Improvements
 
-Forgot Password Feature
-Email Verification
-Session Expiry Handling
-Remember Me Option
-Role-Based Authentication
-React Frontend Integration
-Deployment on Render/Vercel
+### Forgot Password Feature
+### Email Verification
+### Session Expiry Handling
+### Remember Me Option
+### Role-Based Authentication
+### React Frontend Integration
+### Deployment on Render/Vercel
 
 ---
 
 ## 👩‍💻 Author
 
-### Lashmini A D
+### Lashmini A D ❤️
